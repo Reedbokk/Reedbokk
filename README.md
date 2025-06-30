@@ -34,12 +34,20 @@
 <h3>🤝🏻 &nbsp;Conectá conmigo</h3>
 
 <p align="center">
-<a href="https://github.com/Reedbokk"><img alt="GitHub" src="[https://img.shields.io/badge/GitHub-eliasguardia-black?style=flat-square&logo=github](https://github.com/Reedbokk)"></a>
-<a href="[https://www.linkedin.com/in/eliasguardia](https://www.linkedin.com/in/elias-guardia-4882b4193/)"><img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-eliasguardia-blue?style=flat-square&logo=linkedin](https://www.linkedin.com/in/elias-guardia-4882b4193/)"></a>
-<a href="[https://www.instagram.com/eliasguardia](https://www.instagram.com/elias.mkov711/)/"><img alt="Instagram" src="[https://img.shields.io/badge/Instagram-eliasguardia-pink?style=flat-square&logo=instagram](https://www.instagram.com/elias.mkov711/)"></a>
-<a href="mailto:eliasguardia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eliasguardia@gmail.com-red?style=flat-square&logo=gmail"></a>
-<a href="https://wa.me/543865752421"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp"></a>
+  <a href="https://github.com/Reedbokk" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Reedbokk-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/elias-guardia-4882b4193/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eliasguardia-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/elias.mkov711/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-elias.mkov711-pink?style=flat-square&logo=instagram" />
+  </a>
+  <a href="https://wa.me/543865752421" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp" />
+  </a>
 </p>
+
 
 ------
 Actualizado por Elias Guardia - 2025
