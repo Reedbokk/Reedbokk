@@ -1,122 +1,91 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sobre mí - Elias Guardia</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f4f4f4;
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
+<!-- Elias Guardia GitHub Profile -->
+<!--- header start --->
+<img src="https://github.com/progdagi/progdagi/assets/142475159/957577bd-3877-47de-9d9d-9b70c5a6b317" height="21px" style="width: 100%;">
+<!--- header end --->
 
-    .container {
-      max-width: 800px;
-      padding: 2rem;
-      background: white;
-      margin-top: 50px;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      text-align: center;
-    }
+<!--- hero section start --->
+<img src="https://github.com/progdagi/progdagi/assets/142475159/8bad9668-b595-4f07-9add-eb600250f287">
+<!--- hero section end --->
 
-    h1 {
-      font-size: 2rem;
-      color: #007acc;
-    }
+<br>
 
-    .bio {
-      margin: 1rem 0;
-      font-size: 1.1rem;
-    }
+<!--- about section start --->
+# < Hola, soy Elias />
+![](https://komarev.com/ghpvc/?username=eliasguardia&label=PROFILE+VIEWS)
 
-    .technologies {
-      margin: 2rem 0;
-    }
+Apasionado por la tecnología, los idiomas y el diseño gráfico. Siempre busco mejorar y aprender algo nuevo cada día.
 
-    .technologies ul {
-      list-style: none;
-      padding: 0;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-    }
+- **Programación Web:** HTML, CSS, JS.
+- **Lenguajes:** Hablo varios idiomas y enseño en academias.
+- **Diseño Gráfico:** Creatividad y estética para potenciar ideas.
+- **Aprendizaje constante:** Siempre buscando nuevos desafíos. 
 
-    .technologies li {
-      background: #007acc;
-      color: white;
-      padding: 8px 16px;
-      border-radius: 20px;
-      font-size: 0.95rem;
-    }
+## ✨ Lo que me caracteriza:
+- **Dedicación:** Cada proyecto lo encaro con responsabilidad y pasión.
+- **Curiosidad técnica:** Me gusta investigar nuevas herramientas y lenguajes.
+- **Formación integral:** Combino programación, idiomas y creatividad visual.
+<!--- about section end --->
 
-    .links a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: #007acc;
-      font-weight: bold;
-    }
+<br>
 
-    .whatsapp-btn {
-      display: inline-block;
-      margin-top: 1rem;
-      padding: 10px 20px;
-      background: #25D366;
-      color: white;
-      border-radius: 25px;
-      text-decoration: none;
-      font-weight: bold;
-    }
+<!--- skills section start --->
+## Skills:
 
-    @media (max-width: 600px) {
-      .technologies ul {
-        flex-direction: column;
-        align-items: center;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>¡Hola! Soy Elias Guardia</h1>
-    <p class="bio">
-      💻 Programo, diseño y hablo varios idiomas.<br>
-      🚀 Siempre aprendiendo y mejorando cada día.<br>
-      🎨 Apasionado por la tecnología y la creatividad.
-    </p>
+#### Tecnologías y Herramientas:
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</span>
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</span>
 
-    <div class="technologies">
-      <h2>Tecnologías que manejo</h2>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>Python</li>
-        <li>SQL (básico)</li>
-        <li>Diseño Gráfico</li>
-        <li>Git & GitHub</li>
-      </ul>
-    </div>
+<br>
 
-    <div class="links">
-      <a href="https://github.com/tuUsuario" target="_blank">GitHub</a>
-      <a href="https://linkedin.com/in/tuUsuario" target="_blank">LinkedIn</a>
-      <a href="https://facebook.com/tuUsuario" target="_blank">Facebook</a>
-      <a href="https://instagram.com/tuUsuario" target="_blank">Instagram</a>
-      <a href="https://vk.com/tuUsuario" target="_blank">VK</a>
-    </div>
+<!--- contact section start --->
+## Contacto:
 
-    <a class="whatsapp-btn" href="https://wa.me/543865752421" target="_blank">
-      💬 Contactar por WhatsApp
-    </a>
-  </div>
-</body>
-</html>
+Si querés colaborar, aprender juntos o tenés un proyecto en mente, escribime 🚀
 
+<section align="center">
+	<a href="https://wa.me/543865752421" target="_blank">
+		<img src="https://www.svgrepo.com/show/353655/whatsapp.svg" width="45px" alt="WhatsApp">
+	</a>
+	<a href="https://github.com/eliasguardia" target="_blank">
+		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px" alt="GitHub">
+	</a>
+	<a href="https://www.linkedin.com/in/eliasguardia" target="_blank">
+		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px" alt="LinkedIn">
+	</a>
+	<a href="https://instagram.com/eliasguardia" target="_blank">
+		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px" alt="Instagram">
+	</a>
+	<a href="mailto:eliasguardia@gmail.com" target="_blank">
+		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px" alt="Email">
+	</a>
+</section>
+
+<!--- contact section end --->
+
+<!--- footer start --->
+<div align="center" style="margin-top: 20px;">
+Gracias por visitar mi perfil ✨
+</div>
+<!--- footer end --->
