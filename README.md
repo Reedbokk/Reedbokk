@@ -1,91 +1,46 @@
-<!-- Elias Guardia GitHub Profile -->
-<!--- header start --->
-<img src="https://github.com/progdagi/progdagi/assets/142475159/957577bd-3877-47de-9d9d-9b70c5a6b317" height="21px" style="width: 100%;">
-<!--- header end --->
+<h2>¡Hola! Soy Elias Guardia</h2>
 
-<!--- hero section start --->
-<img src="https://github.com/progdagi/progdagi/assets/142475159/8bad9668-b595-4f07-9add-eb600250f287">
-<!--- hero section end --->
+<h3>👨🏻‍🏫 &nbsp;Sobre mí</h3>
 
-<br>
+- 🌍 &nbsp; Profesor de idiomas (Ruso 🇷🇺, Inglés 🇬🇧, Portugués 🇧🇷, Alemán 🇩🇪, Italiano 🇮🇹, Noruego 🇳🇴 — estos tres últimos nivel básico).
+- 👨‍🎨 &nbsp; Diseñador gráfico y creador de contenido en video.
+- 💻 &nbsp; Desarrollador web con enfoque en tecnologías modernas.
+- 📆 &nbsp; En 2025 trabajé en academias de idiomas y diseño compartiendo conocimiento y creatividad.
 
-<!--- about section start --->
-# < Hola, soy Elias />
-![](https://komarev.com/ghpvc/?username=eliasguardia&label=PROFILE+VIEWS)
+<h3>🛠 &nbsp;Stack Tecnológico</h3>
 
-Apasionado por la tecnología, los idiomas y el diseño gráfico. Siempre busco mejorar y aprender algo nuevo cada día.
+- 🌐 &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-- **Programación Web:** HTML, CSS, JS.
-- **Lenguajes:** Hablo varios idiomas y enseño en academias.
-- **Diseño Gráfico:** Creatividad y estética para potenciar ideas.
-- **Aprendizaje constante:** Siempre buscando nuevos desafíos. 
+- 🗃 &nbsp; <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bases%20de%20Datos-4DB33D?style=for-the-badge"/>
 
-## ✨ Lo que me caracteriza:
-- **Dedicación:** Cada proyecto lo encaro con responsabilidad y pasión.
-- **Curiosidad técnica:** Me gusta investigar nuevas herramientas y lenguajes.
-- **Formación integral:** Combino programación, idiomas y creatividad visual.
-<!--- about section end --->
+- 🎨 &nbsp; <img src="https://img.shields.io/badge/Dise%C3%B1o%20Gr%C3%A1fico-FF4088?style=for-the-badge&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Videos%20Creativos-FF5722?style=for-the-badge&logo=youtube&logoColor=white"/>
 
-<br>
+- ⚙️ &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<!--- skills section start --->
-## Skills:
+<br/>
 
-#### Tecnologías y Herramientas:
-<span style="margin-right: 10px;">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</span>
-<span style="margin-right: 10px;">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-	<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-	<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</span>
+<h3>🌐 &nbsp;Idiomas que enseño</h3>
+<ul>
+  <li>🇷🇺 Ruso</li>
+  <li>🇬🇧 Inglés</li>
+  <li>🇧🇷 Portugués</li>
+  <li>🇩🇪 Alemán (básico)</li>
+  <li>🇮🇹 Italiano (básico)</li>
+  <li>🇳🇴 Noruego (básico)</li>
+</ul>
 
-<br>
+<br/>
 
-<!--- contact section start --->
-## Contacto:
+<h3>🤝🏻 &nbsp;Conectá conmigo</h3>
 
-Si querés colaborar, aprender juntos o tenés un proyecto en mente, escribime 🚀
+<p align="center">
+<a href="https://github.com/eliasguardia"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-eliasguardia-black?style=flat-square&logo=github"></a>
+<a href="https://www.linkedin.com/in/eliasguardia"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eliasguardia-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/eliasguardia/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-eliasguardia-pink?style=flat-square&logo=instagram"></a>
+<a href="mailto:eliasguardia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eliasguardia@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="https://wa.me/543865752421"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp"></a>
+</p>
 
-<section align="center">
-	<a href="https://wa.me/543865752421" target="_blank">
-		<img src="https://www.svgrepo.com/show/353655/whatsapp.svg" width="45px" alt="WhatsApp">
-	</a>
-	<a href="https://github.com/eliasguardia" target="_blank">
-		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px" alt="GitHub">
-	</a>
-	<a href="https://www.linkedin.com/in/eliasguardia" target="_blank">
-		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px" alt="LinkedIn">
-	</a>
-	<a href="https://instagram.com/eliasguardia" target="_blank">
-		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px" alt="Instagram">
-	</a>
-	<a href="mailto:eliasguardia@gmail.com" target="_blank">
-		<img src="https://www.svgrepo.com/show/249767/email-mail.svg" width="45px" alt="Email">
-	</a>
-</section>
+------
+Actualizado por Elias Guardia - 2025
 
-<!--- contact section end --->
-
-<!--- footer start --->
-<div align="center" style="margin-top: 20px;">
-Gracias por visitar mi perfil ✨
-</div>
-<!--- footer end --->
