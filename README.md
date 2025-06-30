@@ -2,6 +2,7 @@
 
 <h3>👨🏻‍🏫 &nbsp;Sobre mí</h3>
 
+- 💻 Programador beta cada dia aprendiendo mas e ir un paso hacia adelante
 - 🌍 &nbsp; Profesor de idiomas (Ruso 🇷🇺, Inglés 🇬🇧, Portugués 🇧🇷, Alemán 🇩🇪, Italiano 🇮🇹, Noruego 🇳🇴 — estos tres últimos nivel básico).
 - 👨‍🎨 &nbsp; Diseñador gráfico y creador de contenido en video.
 - 💻 &nbsp; Desarrollador web con enfoque en tecnologías modernas.
